@@ -111,4 +111,3 @@ t.onkey(move_left,'Left')
 t.listen()
 t.mainloop()
 
-# Coded with 💙 by Mr. Unity Buddy
