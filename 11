@@ -1,0 +1,3 @@
+weight=32
+print(weight)
+print
