@@ -132,5 +132,4 @@ c.tongue_out = False
 
 root.after(1000, blink)
 root.after(5000, sad)
-root.after(5000, change_color)
 root.mainloop()
